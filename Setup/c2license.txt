@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: 03.10.2020
+Email: 18xxvirusxx18@gmail.com
+Comment: 
+Timestamp: 1601743844
+Hash: A1FC526D4B7CE2FC365BC621E760221F1029E03A9A0FAB97
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!

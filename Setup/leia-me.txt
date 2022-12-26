@@ -1,0 +1,15 @@
+//-- www.vivagames2.webnode.com --//
+
+//---- Licença -----------------------//
+
+-Abra o Construct 2
+- Clique em File
+- Vá em Preferences, em Update checking, deixe "Don't check for updates" e clique em OK
+- Clique em Upgrade, após, clique em "Load license file" e escolha o arquivo "c2license.txt" que veio junto ao instalador.
+
+- Não se esqueça de se inscrever no canal pois trarei varios tutoriais de construct 2 para vocês
+
+
+//-----------------------------//
+- Alfred Hillson
+- TheBigd
